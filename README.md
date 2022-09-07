@@ -13,7 +13,6 @@
 
 <p align="center">
   <b> <a href="https://osjobs.net/co/">求职课程</a>｜<a href="https://osjobs.net/topk/">高频面试题</a>｜<a href="https://osjobs.net/interview/">经验采访</a>｜<a href="https://www.zhihu.com/people/Windson_Yang/posts?page=1">文章分享</a></b></br>
-  <sub>✨ 一对一入职套餐，<b>无需定金，入职不成功不收费</b>，详细信息请浏览<a href="https://osjobs.net/co/">求职课程</a> ✨<sub>
 </p>
 
 根据国内外论坛收集超过 2000 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的高频面试题。
@@ -35,3 +34,4 @@
 - [拼多多](https://osjobs.net/topk/%E6%8B%BC%E5%A4%9A%E5%A4%9A/)
 
 为获得更好的阅读体验，请通过 [osjobs.net/topk/](https://osjobs.net/topk/) 浏览此仓库内容。
+！！！！以上文章均来自海外兔,仅供参考！！！！
